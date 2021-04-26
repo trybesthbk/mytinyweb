@@ -91,11 +91,11 @@
 ./server -p 9007 -l 1 -m 0 -o 1 -s 10 -t 10 -c 1 -a 1
 ```
 
-CGImysql:数据库连接池
-http:http报文处理命令
-lock：锁机制封装
-log:日志模块
-root:资源文件夹
-test_presure:压测
-threadpool:线程池
-timer:定时器
+CGImysql:数据库连接池  
+http:http报文处理命令  
+lock：锁机制封装  
+log:日志模块  
+root:资源文件夹  
+test_presure:压测  
+threadpool:线程池  
+timer:定时器  
